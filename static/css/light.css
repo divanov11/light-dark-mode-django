@@ -1,0 +1,36 @@
+body{
+	background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: black;
+}
+
+p, span, small{
+	color: #888;
+}
+
+#box{
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 100px;
+	border: 2px solid #e7e7e7;
+	border-radius: 5px;
+	text-align: center;
+	padding: 20px;
+	background-color: #F8F8F8!important;
+}
+
+#profile_pic{
+	display: block;
+	border-radius: 50%;
+	margin: 10px auto;
+	width: 200px;
+	border: 2px solid #e7e7e7;
+
+}
+
+hr{
+	margin: 20px;
+	background-color: #eaeaea;
+}
